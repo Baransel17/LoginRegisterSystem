@@ -1,4 +1,4 @@
-  A simple and secure login and registration system built with c++. This project allows users to sign up, log in, and forgot password options. It creates a text file called user info and saves the user information there.
+  A simple and secure login and registration system built with c++. This project allows users to sign up, log in, and forgot password options. It creates a text file called user info and saves the user information there. Can be improved: forgot password option can be changed to reset password , delete user option can be added.
 
 Features:
 
